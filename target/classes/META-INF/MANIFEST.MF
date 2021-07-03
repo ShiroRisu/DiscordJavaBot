@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Main-Class: Main
+Class-Path: opus-java-natives-1.0.4.jar opus-java-api-1.0.4.jar jna-4.4.
+ 0.jar annotations-16.0.1.jar commons-collections4-4.1.jar jackson-core-
+ 2.10.1.jar okhttp-3.13.0.jar okio-1.17.2.jar nv-websocket-client-2.10.j
+ ar slf4j-api-1.7.25.jar jackson-annotations-2.10.1.jar jsr305-3.0.2.jar
+  trove4j-3.0.3.jar jackson-databind-2.10.1.jar JDA-4.2.0_183.jar
+
